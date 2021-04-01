@@ -3,6 +3,7 @@
 ThreadX 6.1.2 for ARM Versatile/PB (ARM926EJ-S)
 https://github.com/azure-rtos/threadx/releases/tag/v6.1.2_rel
 ```
+https://github.com/azure-rtos/threadx
 
 # Build
 ```
